@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp_HomeWork9
+﻿namespace ConsoleApp_HomeWork9.Internal
 {
     internal class Program
     {
